@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Emad Olfatbakhsh.
-- 👀 I’m interested in Science!
-- 🌱 I’m currently learning python and studying in machine learning direction.
+- 🌱 I’m a Python Developer working in the field of Machine Learning.
 - 💞️ I’m looking to collaborate on anything I'd be able to help with!
 - 📫 How to reach me? Send me an email on: Emadolfatbakhsh@gmail.com
 
