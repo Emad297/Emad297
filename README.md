@@ -1,7 +1,20 @@
-- 👋 Hi, I’m Emad Olfatbakhsh.
-- 🌱 I’m a Python Developer working in the field of Machine Learning.
-- 💞️ I’m looking to collaborate on anything I'd be able to help with!
-- 📫 How to reach me? Send me an email on: Emadolfatbakhsh@gmail.com
+# 👋 Hi, I'm Emad Olfatbakhsh
+
+🎯 **Ready to build production-grade AI?**  
+I'm an **ML/AI Engineer** specialized in:
+- 🔍 Machine Learning & Deep Learning
+- ⚙️ MLOps & Model Lifecycle Management
+- ☁️ Cloud-based AI at enterprise scale (Azure, AWS, GCP)
+
+💡 I focus on developing robust, scalable, and maintainable AI systems that deliver real-world value.
+
+🤝 I'm open to:
+- Collaborating on ML/MLOps projects
+- Contributing to open-source AI initiatives
+- Exploring innovative applications of AI across industries
+
+📫 Get in touch:  
+📧 **Emadolfatbakhsh@gmail.com**
 
 <!---
 Emad297/Emad297 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
